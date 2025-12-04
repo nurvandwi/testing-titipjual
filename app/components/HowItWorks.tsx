@@ -15,7 +15,7 @@ const stepsData = [
     number: "2",
     title: "Konfirmasi Jadwal Inspeksi Unit",
     description:
-      "Pastikan semua informasi yang diisi benar dan akurat sebelum melanjutkan ke tahap selanjutnya.",
+      "Tentukan jadwal dan lokasi pengecekan kendaraan yang diinginkan. Pengecekan kendaraan bisa dilakukan di cabang IBID terdekat atau langsung di lokasi pilihan Anda.",
     image: "/ibid-titip-lelang-isi-formulir-1.png",
     abstractDesign: "/abstract-design-3.svg",
   },
@@ -23,7 +23,7 @@ const stepsData = [
     number: "3",
     title: "Pengecekan Unit oleh Tim Inspeksi",
     description:
-      "Ikuti petunjuk untuk menyelesaikan pendaftaran dan tunggu konfirmasi dari tim IBID.",
+      "Tim inspeksi IBID akan melakukan pengecekan unit untuk memastikan semua item dalam kondisi baik dan sesuai spesifikasi.",
     image: "/ibid-titip-lelang-isi-formulir-2.png",
     abstractDesign: "/abstract-design-1.svg",
   },
@@ -31,7 +31,7 @@ const stepsData = [
     number: "4",
     title: "Konfirmasi Unit Titip Jual",
     description:
-      "Lengkapi data diri beserta informasi detail kendaraan yang akan dijual di lelang IBID secara online melalui website atau aplikasi IBID.",
+      "Setelah data Anda sudah di submit kemudian akan dihubungi oleh IBID untuk konfirmasi unit yang akan dititip jual",
     image: "/ibid-titip-lelang-isi-formulir-3.png",
     abstractDesign: "/abstract-design.svg",
   },
